@@ -1,12 +1,4 @@
-# Software Requirements Specification
-
-
-
-# for
-
-
-
-# Sf-Agriculture
+# Software Requirements Specification for SF-Agriculture
 
 
 
