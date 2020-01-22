@@ -2,10 +2,10 @@
 
 | Project Title: SF-Agricoulture                               |
 | :----------------------------------------------------------- |
-| **Start Date**: gg/mm/aaaa                                                                                 **End Date:** gg/mm/aaaa |
-|**Project Manager:** Zuccolotto Devis                |
+| **Start Date**: 04/12/2019                                                                                 **End Date:** 03/03/2020 |
+| **Project Manager:** Zuccolotto Devis                        |
 | **Project Sponsor:**  ITI G.Marconi                          |
-| **Customer:** Samantha Pedrini                               |
+| **Customer:** ?                                              |
 | **Users:** Micheloni Mirko, Vidrascu Adrian, Pavan Andrea, Zuccolotto Devis |
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -28,11 +28,9 @@ __________
 
 **Schedule Information:**
 
-- 05/12/2019 - Project Documentation (Vision Statement)
-- 12/12/2019 - Project Documentation (Software Requirements Specification) 
-- 19/12/2019 - Project Documentation (Software Project Management Plan)
+- 05/01/2020 - Pre-Project Documentation
 -  gg/mm/yyyy - Creation of the site
-- gg/mm/yyyy – Creation of the DB Account
+- gg/mm/yyyy – Creation of the DB Account and the log in functionality
 - gg/mm/yyyy - Adding the personal area of the site(DB field)
 - gg/mm/yyyy – Creation of the DB Seeds 
 - gg/mm/yyyy – Adding the formula of agricultural yield 
