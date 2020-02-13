@@ -1,6 +1,8 @@
 site_name: 2020_5DI_Team3
 nav:
-    - 'Vision Statement': 'vision_statement.md'
+    - 'Vision Statement': 'Vision_Statement.md'
+    - 'Software Requirement Specification': 'Software_Requirement_Specification.md'
+    - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
     
 theme:
     name: readthedocs
