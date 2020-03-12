@@ -3,6 +3,8 @@ nav:
     - 'Vision Statement': 'Vision_Statement.md'
     - 'Software Requirement Specification': 'Software_Requirement_Specification.md'
     - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
+    - 'Business Model': 'business_model.pdf'
+    - 'Project Model': 'Project_Mode.pdf'
     
 theme:
     name: readthedocs
