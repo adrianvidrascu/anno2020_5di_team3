@@ -26,6 +26,8 @@ nav:
     - 'Test Case Specification(PDF)': 'Test_Case_Specification.pdf'
     - 'Business Model': 'business_model.pdf'
     - 'Project Model': 'Project_Mode.pdf'
+    - 'DPA': 'DPA.docx'
+    - 'DPA(PDF)': 'DPA.pdf'
     
 theme:
     name: readthedocs
